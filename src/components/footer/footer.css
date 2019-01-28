@@ -1,0 +1,23 @@
+.footer {
+  height: 20vh;
+  width: 100%;
+  background-color: #19051c; 
+  color: tomato;
+  font-family: 'Courgette', cursive;
+  font-size: 1.2rem;
+}
+
+.footer_sub {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5px;
+}
+
+.link:hover,
+.link:active {
+  font-size:1.5rem;
+  color:white !important;
+  background-color:tomato;
+  border-radius: 0.4rem !important;
+}
+

@@ -1,0 +1,31 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+.header {
+  height: 25vh;
+  width: 100%;
+  background-color: #19051c; 
+  display: flex;
+}
+
+.manage {
+  align-items: center;
+  margin : auto;
+}
+
+.title {
+  color: tomato;
+  font-family: 'Courgette', cursive;
+  font-size: 2rem;
+}
+
+.sub_title {
+  color: #a89a86;
+  font-family: 'Courgette', cursive;
+  font-size: 1.1rem;
+  text-align: center;
+}
